@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently exploring...<br>👯 I’m looking to collaborate on AI/ML projects that involve innovative solutions and impactful results.<br>🌱 I’m currently learning Full Stack Development to enhance my skill set and build end-to-end applications.<br>💬 Ask me about Machine Learning or Full Stack Development—happy to share my knowledge!<br>⚡ Fun fact: I think of coding as modern magic—turning coffee and logic into working applications!
+🔭 Currently exploring more and more....<br>👯 I’m looking to collaborate on AI/ML projects that involve innovative solutions and impactful results.<br>🌱 I’m currently learning Full Stack Development to enhance my skill set and build end-to-end applications.<br>💬 Ask me about Machine Learning or Full Stack Development—happy to share my knowledge!<br>⚡ Fun fact: I think of coding as modern magic—turning coffee and logic into working applications!
 
 
 ## 🌐 Socials:
